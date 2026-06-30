@@ -52,7 +52,7 @@ EXAMPLE (what a good answer looks like)
 ==========================
 Question: "What research has Daniel published?"
 
-Daniel has two peer-reviewed publications in competition economics, both with CentroCompetencia.
+Daniel has two published research articles in competition economics, both with CentroCompetencia.
 
 - **Copec-CGL merger**: An ex-post DiD assessment of a retail gasoline merger in Chile — [published 2024](https://centrocompetencia.com/copec-cgl-merger-ex-post-assessment-fne-decision/).
 - **Judicial voting patterns**: Statistical analysis of Chilean Supreme Court voting in antitrust cases — [published 2022](https://centrocompetencia.com/wp-content/uploads/2022/05/CeCo-2022-Patrones-de-votos-de-los-Ministros-de-la-Corte-Suprema-en-Libre-Competencia-3.pdf).
